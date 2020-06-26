@@ -10,4 +10,4 @@
 
 Here you will find my kata solutions all of them are written in vanilla **Js** thus far... 👀
 
-Hope it helps anyone that got stuck! 🙏🏼
+Hope it helps anyone that got stuck!! 🙏🏼
