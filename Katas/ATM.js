@@ -1,7 +1,7 @@
 function solve(n) {
   let notes = [500, 200, 100, 50, 20, 10];
   let total = n;
-  let result = [];
+  let result = [ ];
 
   for (let i = 0; i < notes.length; i++) {
     result.push(Math.floor(total / notes[i]));
