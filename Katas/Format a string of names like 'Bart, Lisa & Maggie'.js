@@ -3,7 +3,6 @@ function list(names) {
   let chars = "";
 
   // I convert the hashes into an array
-
   for (let count of names) {
     arr.push(count.name);
   }
