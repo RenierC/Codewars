@@ -1,4 +1,5 @@
 String.prototype.toJadenCase = function () {
+ // the this is what allow things to happen
   let str = this;
   let jadenized = "";
 
