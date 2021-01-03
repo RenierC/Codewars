@@ -22,7 +22,7 @@ function isValidWalk(walk) {
       }
     }
 
-    if (n === s && w === e) {
+    if(n === s && w === e) {
       return true;
     }
     return false;
